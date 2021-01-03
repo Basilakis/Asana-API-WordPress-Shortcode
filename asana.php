@@ -4,7 +4,7 @@
 Plugin Name: Asana for WordPress
 Plugin URI: http://creativeg.gr
 Description: Use shortcodes to getenerate data to your WordPress Installation
-Author: Rajiv Shakya
+Author: Basilis Kanonidis
 Author URI: http://creativeg.gr
 Version: 1.2
 
